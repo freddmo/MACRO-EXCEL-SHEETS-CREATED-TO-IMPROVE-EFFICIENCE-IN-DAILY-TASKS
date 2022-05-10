@@ -23,24 +23,31 @@ This project is used by the following companies:
 - IMPORTANT NOTES
 - For privacy issues, I crossed the name of the person in charge of the cleaning duty and the person in charge of checking that everything is in order.
 ### DAILY CLEANING REPORT SAMPLE SHEET 
+![DAILY CLEANING REPORT SAMPLE SHEET](https://user-images.githubusercontent.com/70821494/167526499-a64bfc16-427d-49fb-85c4-1ba79b3e5a69.jpg)
 
 - The excel sheet contains a button labeled as "INGRESO DE DATOS" (DATA ENTRY).
 - On the first rows it states all the areas covered by the janitor and the Month to be filled manually.
 - The rest of the rows contain the materials used to clean the areas, the persons in charge, the status of the report(satisfied or unsatisfied), date and time.
 
 ### DAILY CLEANING REPORT PRINT SAMPLE
+![PRINT SAMPLE](https://user-images.githubusercontent.com/70821494/167526583-c6efdbce-50a1-4b8f-bea0-1fb9f9ba1fc8.jpg)
 
 - The sheet has been layout to be prepared for printing as shown in the second screenshot.
 - The button is not shown, logos are displayed and at the bottom there is a space to be signed by the janitor and the supervisor.
 
 ### DAILY CLEANING REPORT WITH USERFORM PANEL
+![DAILY CLEANING REPORT WITH USERFORM PANEL](https://user-images.githubusercontent.com/70821494/167526539-bc9d4ece-4bf1-401b-806e-f84c442e1e22.jpg)
 
 - Once I click the button, a panel appears. It is my first design, and I put numbers to guide the user through all the process.
 
 ### DAILY CLEANING REPORT WITH CALENDAR
+![DAILY CLEANING REPORT WITH USERFORM PANEL AND A CALENDAR](https://user-images.githubusercontent.com/70821494/167526518-a6a5d6d0-2699-43ed-983c-75904e24b6b4.jpg)
+
 - Once I click a button labeled "INGRESAR CON FECHA ACTUAL", the present date is recorded with the spaces the janitor checked and if everything is checked the report will be labeled as satisfied.
 
 ### DAILY CLEANING REPORT MESSAGES
+![DAILY CLEANING REPORTS WITH ONE OF MANY MESSAGES ACCORDING TO THE USER ACTIONS](https://user-images.githubusercontent.com/70821494/167526553-10e7a320-cd47-4740-a106-d8096caf49b4.png)
+
 - One of many messages is displayed if I do certain action. In this case I didn't selected a date so the message "SELECCIONE LA FECHA POR FAVOR"(SELECT THE DATE PLEASE).
 
 

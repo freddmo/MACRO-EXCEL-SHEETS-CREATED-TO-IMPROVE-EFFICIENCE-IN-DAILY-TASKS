@@ -54,25 +54,58 @@ This project is used by the following companies:
 ## DAILY TEMPERATURE CONTROL REPORT SCREENSHOTS
 
 ### DAILY TEMPERATURE CONTROL REPORT SAMPLE SHEET 
+![DAILY TEMPERATURE CONTROL REPORT SAMPLE SHEET](https://user-images.githubusercontent.com/70821494/167526796-0181d982-7a93-4595-9022-6c55ff379c34.png)
 
 - The sheets contains the are where temperature and humidity data must be entered.
 - The person must fill the data row by row.
 
 ### DAILY TEMPERATURE CONTROL REPORT PRINT SAMPLE
+![print sample in progress](https://user-images.githubusercontent.com/70821494/167526817-03c8c97e-5501-4fdb-bbf3-78ae7a0fd630.png)
 
 - The button is hidden, and the layout is still a work in progress to be more visual appealing to the final user.
 
 ### DAILY TEMPERATURE CONTROL PANEL TO CHOOSE THE TIME AND THEN THE DATE
+![1er panel de control](https://user-images.githubusercontent.com/70821494/167526841-cd87b62d-d448-4464-b3c3-7a522b1e0339.png)
 
-- The 1st userform panel contains three buttons to select the time and then the date.
+![1er panel de control con pregunta de seguridad](https://user-images.githubusercontent.com/70821494/167526848-77091326-fc07-4e93-97b9-b87aa1a6cd24.png)
+
+![segundo panel de control](https://user-images.githubusercontent.com/70821494/167526906-08818e73-6d59-4ca3-b2e3-1c87bd0996e5.png)
+
+- The 1st userform panel contains three buttons to select the time and then the 2nd panel contains the date.
 
 ### DAILY TEMPERATURE CONTROL PANELS TO ENTER THE DATA
+
+
+
+
+![cuarentena](https://user-images.githubusercontent.com/70821494/167526968-b02f9d79-66b7-4e5b-a93f-2e0c52d24705.png)
+
+![refrigerados](https://user-images.githubusercontent.com/70821494/167527000-ae40b7e5-748f-49a6-8bb3-c8455d89d841.png)
+
+![posicion 1](https://user-images.githubusercontent.com/70821494/167527008-16af9722-4716-4510-b8a9-68abea6120d4.png)
+
+![posicion 2](https://user-images.githubusercontent.com/70821494/167527011-48a531b6-dd71-452e-aea6-86e1f7222049.png)
+
+![posicion 3 con mensaje de guardado con exito](https://user-images.githubusercontent.com/70821494/167527020-baccc9c8-cf79-4349-ba02-eaec93fe3f63.png)
+
+![devoluciones con el ultimo dato ingresado y el boton desactivado](https://user-images.githubusercontent.com/70821494/167527030-3c61cc7e-1f18-43cc-b0fe-a5aa59dd1fc7.png)
+
 - The panels will be erased once the next button is clicked and it goes in the same order as it is stated in the excel sheet, from left to right.
 
 ### NOTIFICATIONS ONCE AN ACTION IS DONE
-- If there isn't any problem related to the right temperature or humidity, the message would be "Registro Guardado con éxito"(RECORD SAVED SUCCESSFULLY). 
-- Otherwise, different messages will appear.
 
+
+- If there isn't any problem related to the right temperature or humidity, the message would be "Registro Guardado con éxito"(RECORD SAVED SUCCESSFULLY).
+![1er Panel de control con mensaje de registro guardado](https://user-images.githubusercontent.com/70821494/167526855-5257e0b2-88bd-4db0-818c-cf14180999f1.png) 
+
+- Otherwise, different messages will appear.
+![refrigerados con humedad incorrecta](https://user-images.githubusercontent.com/70821494/167527074-d32af9c2-0411-41a9-9388-c577bc8f3853.png)
+
+![mensaje con humedad incorrecta](https://user-images.githubusercontent.com/70821494/167527078-e3cf9ca3-25a7-46f7-af29-0fa9cc13b697.png)
+
+![refrigerados con temperatura incorrecta](https://user-images.githubusercontent.com/70821494/167527081-a9e0f6c4-7f24-4ebd-b902-e6d86ef05cb7.png)
+
+![mensaje de temperatura incorrecta](https://user-images.githubusercontent.com/70821494/167527089-e362e894-e805-49f9-ab0a-b40b74fdef97.png)
 
 
 ## Feedback
